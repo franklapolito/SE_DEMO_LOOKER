@@ -6,7 +6,7 @@
 # Catalog: TPC-DS Benchmark Model - BQ_main
 
 connection: "SE_DEMO_10"
-label: "TPC-DS Benchmark Model - BQ_main"
+label: "TPC-DS Benchmark Model - BQ_main1"
 
 
 include: "/views/TPC-DS_Benchmark_Model_-_BQ_main/TPC-DS_Benchmark_Model.view.lkml"
